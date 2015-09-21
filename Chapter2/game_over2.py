@@ -3,7 +3,7 @@
 print("program 'game over' 2.0")
 print("same", "message", "as before")
 print("just"
-      "a bit"
+      "a bit "
       "bigger")
 print("here", end= " ")
 print("it is...")
