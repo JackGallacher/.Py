@@ -1,1 +1,1 @@
-Tasks from the book "Python Programming" by Michael Dawson.
+A collection of the Python code I have done in my free time.

@@ -1,0 +1,1 @@
+Tasks from the book "Python programming for the absolute beginner" by Micheal Dawson.
